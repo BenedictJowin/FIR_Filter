@@ -51,7 +51,6 @@ The FIR filter is implemented using:
 - Testbench applies sample inputs  
 - Output waveform verifies filter behavior  
 
-*(Waveform screenshot can be added in results folder)*
 
 ---
 
