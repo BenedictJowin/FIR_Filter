@@ -81,7 +81,7 @@ The FIR filter is implemented using:
 
 ---
 
-## Author
+## Credits
 
-**Benedict Jowin C**  
-Electrical Engineering, IIT Tirupati  
+Project by **[Benedict Jowin C](https://www.linkedin.com/in/benedict-jowin/)**  
+IIT Tirupati | Electrical Engineering | Class of 2027
