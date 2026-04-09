@@ -29,7 +29,7 @@ FIR_Filter/
 The filter is designed and tested in MATLAB using a noisy input signal.
 
 ### Output Plot  
-<img src="results/matlab_output.png" width="600"/>
+<img src="Results/matlab_output.png" width="600"/>
 
 - Blue → Noisy input signal  
 - Orange → Filtered output signal  
